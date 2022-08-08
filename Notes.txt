@@ -1,0 +1,5 @@
+1) if you are using chrome browser then add chromedriver_path in BasePage.py
+2) if you are using firefox browser then add geckodriver_path in BasePage.py
+3) if you want to pass parameters/arguments to a function/method use dictionary file dont send parameters/arguments directly using send_keys() method
+4) 
+
